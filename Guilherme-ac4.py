@@ -1,3 +1,4 @@
+#Guilherme Carvalho
 def ler_nome():
     """Retorna uma string com o nome do aluno."""
     return input("Informe o nome do aluno: ")
