@@ -1,4 +1,4 @@
-# Matheus Reis e Guilherme Reis
+# Matheus Reis 
 import os
 
 class Aluno:
