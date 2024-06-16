@@ -1,3 +1,4 @@
+#GUILHERME REIS E MATHEUS REIS
 import random
 
 # ANSI escape codes for colors
